@@ -1,5 +1,5 @@
 var admin = require("firebase-admin");
-var serviceAccount = require("../cwash-cd17c-firebase-adminsdk-38jw0-02bd00cfb7.json");
+var serviceAccount = require("api key firebase database");
 
 
 admin.initializeApp({
